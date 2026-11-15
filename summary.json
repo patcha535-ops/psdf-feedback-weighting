@@ -1,0 +1,26 @@
+{
+  "decision_months": 32,
+  "best10_mean": 1.513018650241052,
+  "best5_mean": 2.0257108973172073,
+  "psdf_top5_minus_random": 0.1461052201347801,
+  "psdf_regret_first_half": 1.7164371885587113,
+  "psdf_regret_second_half": 1.4401411990812045,
+  "learned_weight_mean": {
+    "occupancy": 0.5287776362130918,
+    "log_visitors": 0.02003801813421781,
+    "foreign_share": 0.23915220774625431,
+    "log_receipts_per_visitor": 0.08165438262754716,
+    "guests_per_visitor": 0.1303777552788888
+  },
+  "fallback_rate": 0.0,
+  "psdf_minus_random_top10": [
+    0.0652705435789056,
+    -0.07520791391456542,
+    0.18663918190431947
+  ],
+  "psdf_minus_random_top5": [
+    0.14610522013478008,
+    0.012260238497552532,
+    0.28899455550429803
+  ]
+}

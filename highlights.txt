@@ -1,0 +1,5 @@
+Feedback-driven PSDF compared with periodic AHP in a leakage-controlled simulation
+AHP wins with unbiased judgments; PSDF wins when stated preferences are biased
+Adaptive weighting, not the risk-aggregation form, drives PSDF's gains
+Regime map: reversal timing and preference gap change the ordering of the methods
+Real tourism data: PSDF is no better than random; signed ridge and momentum win
