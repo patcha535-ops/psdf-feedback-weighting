@@ -32,5 +32,5 @@ they are available from the Ministry of Tourism and Sports (https://www.mots.go.
 Tourism and Sports, Thailand. Check the Ministry's terms of reuse before redistributing them. The MIT licence covers the code only.
 
 ## Archiving / citing
-Create a GitHub *release* (e.g. `v1.0.0`) and let Zenodo archive it; use the DOI of that release in the manuscript
+Create a GitHub *release* (use a tag that does not exist yet, e.g. `v2.0.0`; keep `version` in `CITATION.cff` equal to it) and let Zenodo archive it; use the DOI of that release in the manuscript
 (`\RepoDOI` at the top of `main.tex`). Every new release gets a new version DOI; the concept DOI always resolves to the latest.
